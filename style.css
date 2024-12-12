@@ -1,0 +1,17 @@
+@font-face{
+	font-family:ferrum;
+	src:url('ferrum.otf');
+	font-weight:normal;
+	font-style:normal;
+}
+
+body
+{
+	font-family: 'ferrum';	
+	padding: 20px;
+}
+
+main
+{
+	
+}
