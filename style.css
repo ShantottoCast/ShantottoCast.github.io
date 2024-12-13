@@ -5,12 +5,28 @@
 	font-style:normal;
 }
 
+#MainNav
+{
+/* 	background-image: linear-gradient
+	background-color: rgba(120,0,0,.5); */
+}
+
+
 body
 {
 	font-family: 'ferrum';	
 	padding: 20px;
 	/* th{text-align:center} */
+	
+/* 	#wrapper
+	{
+	display: grid;
+	grid-auto-flow: row;
+	} */
+
 }
+
+
 
 main
 {
